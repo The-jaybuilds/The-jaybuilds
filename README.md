@@ -1,10 +1,11 @@
 ## Hi there 👋
-<div align="center">
+
 
 <img
+  align = "right"
   src="assets/jay_particle_reveal_hd (1).gif"
   width="280"
-  alt="profile.sh --live — Jay "
+  alt="Animated neural tensor portrait"
 />
 
 <!--
