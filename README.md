@@ -1,4 +1,11 @@
 ## Hi there 👋
+<div align="center">
+
+<img
+  src="assests/banner-dark.v3-gif-faithful.svg"
+  width="100%"
+  alt="profile.sh --live — Jay "
+/>
 
 <!--
 **The-jaybuilds/The-jaybuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
