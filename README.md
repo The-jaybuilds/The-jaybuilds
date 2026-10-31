@@ -3,7 +3,7 @@
 
 <img
   src="assets/jay_particle_reveal_hd (1).gif"
-  width="100%"
+  width="280"
   alt="profile.sh --live — Jay "
 />
 
