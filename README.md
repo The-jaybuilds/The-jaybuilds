@@ -2,7 +2,7 @@
 <div align="center">
 
 <img
-  src="assests/banner-dark.v3-gif-faithful.svg"
+  src="assets/jay_particle_reveal_hd (1).gif"
   width="100%"
   alt="profile.sh --live — Jay "
 />
