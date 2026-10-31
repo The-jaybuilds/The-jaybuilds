@@ -3,6 +3,7 @@
 
 <img
   align = "right"
+  bgcolor = "rgb(246, 248, 250)"
   src="assets/jay_particle_reveal_hd (1).gif"
   width="280"
   alt="Animated neural tensor portrait"
