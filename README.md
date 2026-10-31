@@ -16,10 +16,7 @@
   />
 </p>
 
-<strong>
-Software Developer exploring AI engineering — from Transformers and LLM internals
-to intelligent systems, backend engineering, and deployment.
-</strong>
+
 
 <!--
 **The-jaybuilds/The-jaybuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
